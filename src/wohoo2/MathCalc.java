@@ -3,7 +3,7 @@ package wohoo2;
 public class MathCalc {
 	
 	public MathCalc() {
-		// TODO Auto-generated constructor stub
+		
 	}
 	
 	public int add(int x, int y) {
