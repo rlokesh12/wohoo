@@ -22,11 +22,11 @@ public class MathCalc {
 		double xd = x;
 		double yd = y;
 		double result = 0;
-		try {
+		//try {
 			result = xd/yd;
-		} catch (ArithmeticException e) {
-			System.out.println("y is zero");
-		}
+		//} catch (ArithmeticException e) {
+		//	System.out.println("y is zero");
+		//}
 		return result;
 	}
 	
